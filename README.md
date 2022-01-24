@@ -6,4 +6,4 @@
 * Подгрузка с JSON database товаров на 4 элемента через Fetch API (Get запрос)
 * Отправка заполненной формы на JSON-placeholder через Fetch API (Post запрос)
 
-[]
+![workswithtable](img/)
